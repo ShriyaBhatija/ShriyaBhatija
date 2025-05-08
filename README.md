@@ -1,8 +1,6 @@
 ## Welcome, I'm Shriya 👋
 
-I am an M.Sc. Mathematics student at TU Munich, currently wrapping up my studies with a thesis at the Cyber-Human Lab of the University of Cambridge. Here, I am focusing on how to find optimal interventions in causal graphs for which I am also establishing theoretical guarantees with Reinforcement Learning methods. Academically, I have a strong interest in data science, computer vision and machine learning. 
-
-Previously, I have interned as a computer vision engineer at the German Aerospace Center (DLR) in Berlin as well as completed a research visit at the University of Tokyo.
+I am an M.Sc. Mathematics student at the Technical University of Munich, focusing on probability theory and machine learning. I recently completed my Master's thesis at the University of Cambridge, working in the intersection of causality and Bayesian optimization. Currently, I am a Software Engineering Intern at Intrinsic, focusing on 6D object pose estimation models.
 
 <!--
 **ShriyaBhatija/ShriyaBhatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
