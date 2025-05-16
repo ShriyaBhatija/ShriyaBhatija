@@ -1,6 +1,6 @@
 ## Welcome, I'm Shriya 👋
 
-I am an M.Sc. Mathematics student at the Technical University of Munich, focusing on probability theory and machine learning. I recently completed my Master's thesis at the University of Cambridge, working in the intersection of causality and Bayesian optimization. Currently, I am a Software Engineering Intern at Intrinsic, focusing on 6D object pose estimation models.
+I am an M.Sc. Mathematics student at the Technical University of Munich, focusing on probability theory and machine learning. I recently completed my Master's thesis at the University of Cambridge, working in the intersection of causality and Bayesian optimization. Currently, I am a Software Engineering Intern at Intrinsic, focusing on 3D reconstruction.
 
 <!--
 **ShriyaBhatija/ShriyaBhatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
